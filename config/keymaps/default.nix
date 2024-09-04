@@ -1,5 +1,8 @@
 {
-  imports = [ ./telescope.nix ];
+  imports = [ 
+    ./telescope.nix 
+    ./lsp.nix
+  ];
   globals = {
     mapleader = " ";
   };
