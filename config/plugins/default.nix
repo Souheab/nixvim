@@ -25,7 +25,7 @@
         clangd = {
           enable = true; 
         };
-        nixd = {
+        nil-ls = {
           enable = true;
         };
       };
