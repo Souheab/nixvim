@@ -19,13 +19,16 @@
     which-key = {
       enable = true;
     };
+    web-devicons = {
+      enable = true;
+    };
     lsp = {
       enable = true;
       servers = {
         clangd = {
           enable = true; 
         };
-        nil-ls = {
+        nil_ls = {
           enable = true;
         };
       };

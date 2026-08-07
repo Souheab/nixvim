@@ -1,7 +1,6 @@
 {
   opts = {
     backup = false;
-    background = "";
     clipboard = "unnamedplus";
     cmdheight = 1;
     conceallevel = 0;
